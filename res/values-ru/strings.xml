@@ -19,38 +19,6 @@
     <string name="app_name">Калькулятор</string>
     <!-- If there is a syntax error in the user entered calculation, an error dialog will appear.  This is the title. -->
     <string name="error">Ошибка</string>
-    <!-- Displayed numbers for the digit buttons -->
-    <string name="digit0">0</string>
-    <!-- Displayed numbers for the digit buttons -->
-    <string name="digit1">1</string>
-    <!-- Displayed numbers for the digit buttons -->
-    <string name="digit2">2</string>
-    <!-- Displayed numbers for the digit buttons -->
-    <string name="digit3">3</string>
-    <!-- Displayed numbers for the digit buttons -->
-    <string name="digit4">4</string>
-    <!-- Displayed numbers for the digit buttons -->
-    <string name="digit5">5</string>
-    <!-- Displayed numbers for the digit buttons -->
-    <string name="digit6">6</string>
-    <!-- Displayed numbers for the digit buttons -->
-    <string name="digit7">7</string>
-    <!-- Displayed numbers for the digit buttons -->
-    <string name="digit8">8</string>
-    <!-- Displayed numbers for the digit buttons -->
-    <string name="digit9">9</string>
-    <!-- Displayed letters for the hex digit buttons -->
-    <string name="A">A</string>
-    <!-- Displayed letters for the hex digit buttons -->
-    <string name="B">B</string>
-    <!-- Displayed letters for the hex digit buttons -->
-    <string name="C">C</string>
-    <!-- Displayed letters for the hex digit buttons -->
-    <string name="D">D</string>
-    <!-- Displayed letters for the hex digit buttons -->
-    <string name="E">E</string>
-    <!-- Displayed letters for the hex digit buttons -->
-    <string name="F">F</string>
     <!-- Displayed letters for the variable digit buttons -->
     <string name="X">X</string>
     <!-- Displayed letters for the variable digit buttons -->
@@ -109,7 +77,7 @@
     <string name="solve">Решить</string>
     <string name="dotProduct">Точка</string>
     <string name="crossProduct">Крест</string>
-    
+
 <!-- Left untranslated, because of soviet calculators -->
     <string name="hex">Hex</string>
     <string name="bin">Bin</string>
@@ -120,9 +88,10 @@
     <string name="decDesc">Десятичная</string>
     <string name="determinantDesc">Определитель</string>
     <string name="eigenvalueDesc">Собственные</string>
-    
+
     <string name="settings">Настройки</string>
     <string name="showHistory">Показать историю</string>
     <string name="hideHistory">Спрятать историю</string>
 
-    <string name="returnToBasic">Возвращаться на основную панель</string></resources>
+    <string name="returnToBasic">Возвращаться на основную панель</string>
+</resources>
